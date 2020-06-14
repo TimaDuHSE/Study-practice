@@ -1,0 +1,11 @@
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.exe
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.deps.json
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.runtimeconfig.json
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.runtimeconfig.dev.json
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.dll
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\bin\Debug\netcoreapp3.0\Pr_N6.pdb
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\obj\Debug\netcoreapp3.0\Pr_N6.csprojAssemblyReference.cache
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\obj\Debug\netcoreapp3.0\Pr_N6.AssemblyInfoInputs.cache
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\obj\Debug\netcoreapp3.0\Pr_N6.AssemblyInfo.cs
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\obj\Debug\netcoreapp3.0\Pr_N6.dll
+C:\Users\TIMA\source\repos\Pr_N6\Pr_N6\obj\Debug\netcoreapp3.0\Pr_N6.pdb
